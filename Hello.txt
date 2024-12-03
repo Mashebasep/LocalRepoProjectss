@@ -1,3 +1,0 @@
-git add hello.txt
-git commit-m" create hello.txt"
-git pushorigin main
